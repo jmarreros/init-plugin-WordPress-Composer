@@ -1,3 +1,3 @@
-# Lemans Migration
+# Init plugin with Composer
 
-Custom plugin to migrate Joomla data to WooCommerce
+Custom plugin sample for  initialization
