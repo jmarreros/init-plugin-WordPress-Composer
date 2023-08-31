@@ -1,0 +1,16 @@
+{
+  "name": "jmarreros/dcms-lemans-migration",
+  "description": "Migrate data from Joomla to WooCommerce",
+  "autoload": {
+    "psr-4": {
+      "dcms\\lemans\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "Jhon Marreros Guzmán",
+      "email": "admin@decodecms.com"
+    }
+  ],
+  "require": {}
+}
